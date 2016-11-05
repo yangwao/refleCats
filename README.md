@@ -19,6 +19,8 @@ Query hints for [scihub](https://scihub.copernicus.eu/dhus/)
   ```
   platformname:Sentinel-2 footprint:"intersects(48.2949799,14.1873221)"
   ```
+  dataset
+  >  S2A_OPER_PRD_MSIL1C_PDMC_20161014T033310_R122_V20161013T100022_20161013T100022.SAFE
 
 * Vienna S2A_OPER_PRD_MSIL1C_PDMC swaths
   ```
