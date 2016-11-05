@@ -5,7 +5,9 @@ repository for [Copernicus hackathon](copernicus.devpost.com) held 4-5/11/2016 i
 
 ~~[Concept (SK)](https://github.com/yangwao/reflecats/wiki/Concept)~~
 
-[Presentation](https://github.com/yangwao/reflecats/wiki/Presentation)
+~~[Presentation](https://github.com/yangwao/reflecats/wiki/Presentation)~~
+
+[WiP Slides](https://docs.google.com/presentation/d/1gWlafWr-8P-XJ8l-uPosRH6BUAOHmzXHQWjVJZvrqLA/edit?usp=sharing)
 
 # Authors
 
