@@ -1,7 +1,7 @@
 # :cat: RefleCats
 b/c reflections mattersヽ(^‥^=ゞ)
 
-repository for [Copernicus hackathon](copernicus.devpost.com) held 4-5/11/2016 in Vienna, Austria
+repository for [Copernicus hackathon](https://copernicus.devpost.com/) held 4-5/11/2016 in Vienna, Austria
 
 ~~[Concept (SK)](https://github.com/yangwao/reflecats/wiki/Concept)~~
 
