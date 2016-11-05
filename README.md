@@ -40,6 +40,9 @@ Query hints for [scihub](https://scihub.copernicus.eu/dhus/)
 [Rest of knowledge is at our wiki](https://github.com/yangwao/reflecats/wiki/RefleCats)
 
 ## Technology Part
+### Data origins
+
+**Sentinel-2** (2 satellites) is an optical mission with a multi-spectral instrument mainly for agricultural applications such as crop monitoring and management, vegetation and forest monitoring (e.g. leaf area index, chlorophyll concentration, carbon mass estimations), monitoring land cover change for environmental monitoring, observation of coastal zones (marine environmental monitoring, coastal zone mapping), inland water monitoring, glacier monitoring, ice extent and snow cover mapping.
 
 ### Data acquisition
 
