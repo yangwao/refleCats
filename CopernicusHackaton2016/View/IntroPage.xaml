@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		xmlns:local="clr-namespace:CopernicusHackaton2016" 
+		x:Class="CopernicusHackaton2016.IntroPage"
+		xmlns:cv="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView"
+		xmlns:d="clr-namespace:CopernicusHackaton2016;assembly=CopernicusHackaton2016"
+		xmlns:xfg="clr-namespace:XFGloss;assembly=XFGloss"
+		>
+
+	 <xfg:ContentPageGloss.BackgroundGradient>
+        <xfg:Gradient Rotation="150">
+            <xfg:GradientStep StepColor="#d9d9d9" StepPercentage="0" />
+            <xfg:GradientStep StepColor="#e8e8e8" StepPercentage=".5" />
+            <xfg:GradientStep StepColor="#d9d9d9" StepPercentage="1" />
+        </xfg:Gradient>
+    </xfg:ContentPageGloss.BackgroundGradient>
+	
+	<ContentPage.BindingContext>
+	<local:IntroViewModel/>
+	</ContentPage.BindingContext>
+
+	<ContentPage.Content>
+		<StackLayout>
+		<cv:CarouselView ItemsSource="{Binding CarouselDataSource}" 
+				VerticalOptions="FillAndExpand"  
+				BackgroundColor="Transparent">
+		    <cv:CarouselView.ItemTemplate>
+		      <DataTemplate>
+					
+          		<StackLayout>
+					<Label Text="{Binding Title}"
+							XAlign="Center"
+							FontSize="22" 
+							VerticalOptions="CenterAndExpand" 
+							Margin="10,10,10,10" />						
+				</StackLayout>
+					
+		      </DataTemplate>
+		    </cv:CarouselView.ItemTemplate>
+
+		</cv:CarouselView>
+
+		<Button Text="Continue To App"
+				VerticalOptions="EndAndExpand"
+				HorizontalOptions="CenterAndExpand"/>
+
+
+		</StackLayout>
+	</ContentPage.Content>
+
+</ContentPage>
