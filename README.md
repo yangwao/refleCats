@@ -1,11 +1,13 @@
 # :cat: RefleCats
 b/c reflections mattersヽ(^‥^=ゞ)
 
-repository for [Copernicus hackathon](copernicus.devpost.com) held 4-5/11/2016 in Vienna, Austria
+repository for [Copernicus hackathon](https://copernicus.devpost.com/) held 4-5/11/2016 in Vienna, Austria
 
 ~~[Concept (SK)](https://github.com/yangwao/reflecats/wiki/Concept)~~
 
-[Presentation](https://github.com/yangwao/reflecats/wiki/Presentation)
+~~[Presentation](https://github.com/yangwao/reflecats/wiki/Presentation)~~
+
+[WiP Slides](https://docs.google.com/presentation/d/1gWlafWr-8P-XJ8l-uPosRH6BUAOHmzXHQWjVJZvrqLA/edit?usp=sharing)
 
 # Authors
 
@@ -38,6 +40,9 @@ Query hints for [scihub](https://scihub.copernicus.eu/dhus/)
 [Rest of knowledge is at our wiki](https://github.com/yangwao/reflecats/wiki/RefleCats)
 
 ## Technology Part
+### Data origins
+
+**Sentinel-2** (2 satellites) is an optical mission with a multi-spectral instrument mainly for agricultural applications such as crop monitoring and management, vegetation and forest monitoring (e.g. leaf area index, chlorophyll concentration, carbon mass estimations), monitoring land cover change for environmental monitoring, observation of coastal zones (marine environmental monitoring, coastal zone mapping), inland water monitoring, glacier monitoring, ice extent and snow cover mapping.
 
 ### Data acquisition
 
@@ -69,4 +74,11 @@ We know that calculation of Albedo is hard thing in this industry
 
 * Xamarin
 * Mapbox
+* …
+
+
+#### Sources
+* https://eox.at/2015/12/understanding-sentinel-2-satellite-data/
+* https://eox.at/tag/sentinel-2/
+* https://github.com/ibamacsr/sentinelsat
 * …
