@@ -26,12 +26,14 @@ Query hints for [scihub](https://scihub.copernicus.eu/dhus/)
   platformname:Sentinel-2 footprint:"intersects(48.2949799,14.1873221)"
   ```
   dataset
-  >  S2A_OPER_PRD_MSIL1C_PDMC_20161014T033310_R122_V20161013T100022_20161013T100022.SAFE
+  >  S2A_OPER_PRD_MSIL1C_PDMC_20160915T180457_R122_V20160913T100022_20160913T100504
 
 * Vienna S2A_OPER_PRD_MSIL1C_PDMC swaths
   ```
   platformname:Sentinel-2 footprint:"intersects(48.2082,16.3738)"
   ```
+  dataset
+  > S2A_OPER_PRD_MSIL1C_PDMC_20160915T180457_R122_V20160913T100022_20160913T100504
 
 [Rest of knowledge is at our wiki](https://github.com/yangwao/reflecats/wiki/RefleCats)
 
