@@ -1,7 +1,7 @@
-# reflecats
+# :cat: RefleCats
 b/c reflections mattersヽ(^‥^=ゞ)
 
-repository for Copernicus 4-5/11 hackhaton in Vienna, Austria
+repository for Copernicus 4-5/11/2016 hackathon in Vienna, Austria
 
 Setup before first pull you need [Git LFS](https://git-lfs.github.com/) (b/c tif)
 ```
