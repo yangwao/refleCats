@@ -16,7 +16,7 @@ Query hints for [scihub](https://scihub.copernicus.eu/dhus/)
   * `platformname:Sentinel-2 footprint:"intersects(48.2082,16.3738)"`
 
 
-### Technology Part
+## Technology Part
 
 ### Data acquisition
 
@@ -27,7 +27,7 @@ platformname:Sentinel-2 footprint:"intersects(48.2082,16.3738)"
 
 to get proper file names of data from Sentinel 2, which we unziped and loaded into qGIS
 
-#### Data processing
+### Data processing
 
 [Convert Landsat DNs to albedo](http://yceo.yale.edu/how-convert-landsat-dns-albedo)
 ![img](http://yceo.yale.edu/sites/default/files/images/AlbedoForm.PNG)
@@ -37,11 +37,11 @@ i.e. use this formula can be implemented in ENVI using Band Math as:
 ((0.356*B1) + (0.130*B2) + (0.373*B3) + (0.085*B4) + (0.072*B5) -0.018) / 1.016
 ```
 
-#### Web
+### Web
 
 * Leaflet
 
-#### Mobile
+### Mobile
 
 * Xamarin
 * Mapbox
