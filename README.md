@@ -1,7 +1,12 @@
 # :cat: RefleCats
 b/c reflections mattersヽ(^‥^=ゞ)
 
-repository for [Copernicus](copernicus.devpost.com) 4-5/11/2016 hackathon in Vienna, Austria
+repository for [Copernicus hackathon](copernicus.devpost.com) held 4-5/11/2016 in Vienna, Austria
+
+~~[Concept (SK)](https://github.com/yangwao/reflecats/wiki/Concept)~~
+
+[Presentation](https://github.com/yangwao/reflecats/wiki/Presentation)
+
 
 ### Setup
 before first pull you need [Git LFS](https://git-lfs.github.com/) installed (b/c tif)
@@ -15,6 +20,7 @@ Query hints for [scihub](https://scihub.copernicus.eu/dhus/)
 * Vienna S2A_OPER_PRD_MSIL1C_PDMC swaths
   * `platformname:Sentinel-2 footprint:"intersects(48.2082,16.3738)"`
 
+[Rest of knowledge is at our wiki](https://github.com/yangwao/reflecats/wiki/RefleCats)
 
 ## Technology Part
 
