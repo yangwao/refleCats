@@ -7,6 +7,12 @@ repository for [Copernicus hackathon](copernicus.devpost.com) held 4-5/11/2016 i
 
 [Presentation](https://github.com/yangwao/reflecats/wiki/Presentation)
 
+# Authors
+
+* [Michal Dolnik](https://github.com/michaelknave)
+* [Martin Fridrich](https://github.com/martinfridrich)
+* [Matej Nemček](https://github.com/yangwao)
+* [Ivana Zemanovicova](https://github.com/Ivkaa)
 
 ### Setup
 before first pull you need [Git LFS](https://git-lfs.github.com/) installed (b/c tif)
@@ -55,8 +61,10 @@ We know that calculation of Albedo is hard thing in this industry
 ### Web
 
 * Leaflet
+* …
 
 ### Mobile
 
 * Xamarin
 * Mapbox
+* …
