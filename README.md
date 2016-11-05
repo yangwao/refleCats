@@ -75,3 +75,10 @@ We know that calculation of Albedo is hard thing in this industry
 * Xamarin
 * Mapbox
 * …
+
+
+#### Sources
+* https://eox.at/2015/12/understanding-sentinel-2-satellite-data/
+* https://eox.at/tag/sentinel-2/
+* https://github.com/ibamacsr/sentinelsat
+* …
