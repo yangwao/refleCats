@@ -16,9 +16,14 @@ git lfs install
 ```
 Query hints for [scihub](https://scihub.copernicus.eu/dhus/)
 * Linz S2A_OPER_PRD_MSIL1C_PDMC swaths
-  * `platformname:Sentinel-2 footprint:"intersects(48.2949799,14.1873221)"`
+  ```
+  platformname:Sentinel-2 footprint:"intersects(48.2949799,14.1873221)"
+  ```
+
 * Vienna S2A_OPER_PRD_MSIL1C_PDMC swaths
-  * `platformname:Sentinel-2 footprint:"intersects(48.2082,16.3738)"`
+  ```
+  platformname:Sentinel-2 footprint:"intersects(48.2082,16.3738)"
+  ```
 
 [Rest of knowledge is at our wiki](https://github.com/yangwao/reflecats/wiki/RefleCats)
 
@@ -42,6 +47,8 @@ i.e. use this formula can be implemented in ENVI using Band Math as:
 ```
 ((0.356*B1) + (0.130*B2) + (0.373*B3) + (0.085*B4) + (0.072*B5) -0.018) / 1.016
 ```
+
+We know that calculation of Albedo is hard thing in this industry
 
 ### Web
 
